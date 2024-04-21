@@ -2,7 +2,7 @@ import React from "react";
 
 const Servicios =()=>{
     return (
-      <section class="servicios">
+      <section id="servicio" class="servicios">
         <div class="servicios-content">
           <div class="txt">
             <h2>Razones para unirse</h2>

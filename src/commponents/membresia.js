@@ -1,7 +1,7 @@
 import React from "react";
 const Membresia = () => {
   return (
-    <section class="membresia-content">
+    <section id="membresia" class="membresia-content">
       <div class="txt">
         <h2>Membresias del GYM</h2>
       </div>
